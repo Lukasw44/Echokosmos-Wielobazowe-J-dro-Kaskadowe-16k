@@ -1,7 +1,7 @@
 # ECHOKOSMOS 
 
 Prezentuję trzeci element projektu **Echokosmos**: 
-**AMSIN QUANTUM 16K - Wielobazowe Jądro Kaskadowe (16 Kubitów / Core P3 v5.04).**
+**AMSIN QUANTUM 16K - Wielobazowe Jądro Kaskadowe (16 Kubitów / Core P3 v4.05).**
 
 ---
 
